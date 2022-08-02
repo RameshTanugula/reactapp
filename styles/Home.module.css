@@ -1,0 +1,15 @@
+.categories {
+  padding-left: 10%;
+  padding: 10px;
+}
+
+.products {
+  padding: 1%;
+}
+
+.image {
+  height: 15rem;
+  width: 15rem;
+  margin-left: 0.5rem;
+  border-radius: 20px;
+}
